@@ -1,0 +1,16 @@
+.first_box {
+  margin: 100px;
+  padding: 20px;
+  width: 50%;
+  border-color: white;
+  background-color: red;
+  border-style: dashed;
+  border-width: thick;
+}
+.second_box {
+  background-repeat: repeat;
+  width: 80%;
+  border: 15px double;
+  background-image: url("/images/soviet-flag-16.gif");
+  background-repeat: repeat;
+}
