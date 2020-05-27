@@ -1,10 +1,4 @@
-.picture {
-  position: absolute;
-  left: 20px;
-  top: 20px;
-}
-.lyrics {
-  position: absolute;
-  left: 200px;
-  top: 20px;
+.address {
+  position: relative;
+  left: 10px;
 }
