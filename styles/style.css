@@ -1,19 +1,30 @@
+:root {
+  --container: rgb(230, 29, 29);
+}
+body {
+  margin-top: 0px;
+}
+.container {
+  background-color: var(--container);
+  height: 100%;
+}
 .left {
+  background-color: red;
   float: left;
   width: 15%;
-  background-color: gray;
-  padding: 1%;
+  height: 100%;
+}
+.right {
+  background-color: red;
+  float: right;
+  width: 15%;
+  height: 100%;
 }
 .center {
   float: left;
-  width: 62%;
+  width: 66%;
   text-align: justify;
-  padding: 1% 2%;
-  background-color: #b69f9f;
-}
-.right {
-  float: right;
-  width: 15%;
-  background-color: gray;
-  padding: 1%;
+  height: 100%;
+  margin-right: 2%;
+  margin-left: 2%;
 }
