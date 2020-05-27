@@ -1,12 +1,19 @@
 .left {
   float: left;
-  width: 49%;
-  margin: 0.5%;
+  width: 15%;
+  background-color: gray;
+  padding: 1%;
+}
+.center {
+  float: left;
+  width: 62%;
   text-align: justify;
+  padding: 1% 2%;
+  background-color: #b69f9f;
 }
 .right {
   float: right;
-  width: 49%;
-  margin: 0.5%;
-  text-align: justify;
+  width: 15%;
+  background-color: gray;
+  padding: 1%;
 }
