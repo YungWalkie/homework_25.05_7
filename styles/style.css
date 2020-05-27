@@ -1,12 +1,12 @@
-.fix {
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  width: 20%;
+.left {
+  float: left;
+  width: 49%;
+  margin: 0.5%;
+  text-align: justify;
 }
-.lyrics {
-  width: 70%;
-  position: absolute;
-  left: 22%;
+.right {
+  float: right;
+  width: 49%;
+  margin: 0.5%;
   text-align: justify;
 }
